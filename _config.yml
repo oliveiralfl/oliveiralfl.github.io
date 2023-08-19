@@ -81,7 +81,7 @@ author:
   bio              : "Associate Professor, Department of Chemistry. MVNU. <br> <br> Research: Computational Biophysics and Computational Materials Science"
   location         : "Mount Vernon - Ohio"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ifFGKp4AAAAJ&view_op=list_works"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,8 +97,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  LinkedIn         : "https://www.linkedin.com/in/luiz-oliveira-b6480212/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0022-0383"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
