@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can download a PDF version of my CV [here](http://oliveiralfl.github.io/files/Oliveira_CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
