@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Luiz Oliveira"
   avatar           : "Screenshot 2023-08-19 at 1.20.29 PM.png"
-  bio              : "Associate Professor, Department of Chemistry. MVNU. <br> <br> Research: Computational Biophysics and Computational Materials Science"
+  bio              : "Associate Professor, Department of Chemistry. MVNU <br> <br> Research: Computational Biophysics and Computational Materials Science"
   #location         : "Mount Vernon - Ohio"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ifFGKp4AAAAJ&view_op=list_works"
@@ -280,7 +280,7 @@ tag_archive:
 # jekyll-archives:
 #   enabled:
 #     - categories
-#     - tags
+#     - tag
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
