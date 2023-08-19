@@ -17,10 +17,15 @@ Work experience
   * Mount Vernon Nazarene University
   * Research: Computational Biophysics, Computational Materials Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Assistant Professor of Chemistry - Visiting
+  * University of Cincinnati. Cincinnati - OH 
+  * Research: Computational Biophysics
+ 
+* 2015 - 2018: Research Associate
+  * Department of Chemical Engineering.
+  * University of Washington. Seattle 
+\cvitem{Research}{Molecular Modeling, Reaction Engineering}
+    
  
   Education
 ======
