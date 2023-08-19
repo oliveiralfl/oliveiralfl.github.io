@@ -14,7 +14,7 @@ A complete CV is available [here](http://oliveiralfl.github.io/files/Oliveira_CV
 Work experience
 ======
 * **2020 - present: Associate Professor of Chemistry**
-  * Mount Vernon Nazarene University
+  * Mount Vernon Nazarene University. Mount Vernon - OH
   * Research: Computational Biophysics, Computational Materials Science
 
 * **2018 - 2020: Assistant Professor of Chemistry - Visiting**
@@ -23,7 +23,7 @@ Work experience
  
 * **2015 - 2018: Research Associate**
   * Department of Chemical Engineering.
-  * University of Washington. Seattle 
+  * University of Washington. Seattle – WA
   * Research: Molecular Modeling, Reaction Engineering
  
 * **2013 - 2015: Postdoctoral research fellow**
