@@ -24,14 +24,19 @@ Work experience
 * 2015 - 2018: Research Associate
   * Department of Chemical Engineering.
   * University of Washington. Seattle 
-\cvitem{Research}{Molecular Modeling, Reaction Engineering}
+  * Research: Molecular Modeling, Reaction Engineering
+ 
+* 2013 - 2015: Postdoctoral research fellow
+  * Laboratoire de Chimie et Physique Quantiques. Toulouse - France
+  * Research: Computational Chemistry, Molecular Modeling
     
  
   Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*2012 Ph.D. in Chemistry.
+  * University of Lyon and Atomic Energy and Alternative Energies Commission at Grenoble France.
+  * Title: Physical multiscale modeling of PEM water electrolyzers: from ab initio data to macroscale observables.
+  * Supervisors: Professor Alejandro A. Franco & Professor Christian Jallut.
   
 Skills
 ======
