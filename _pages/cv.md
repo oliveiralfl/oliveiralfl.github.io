@@ -44,8 +44,3 @@ Education
 * 2007 B.S. in Physics
   * Universidade Federal de Uberlândia - Brazil
   
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
