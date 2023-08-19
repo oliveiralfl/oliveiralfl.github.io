@@ -9,8 +9,7 @@ redirect_from:
 ---
 The Oliveira Research Group uses modern computational chemistry, molecular modeling methods, and data science to investigate various materials as well as biomolecular systems. The systems that we are currently investigating are the unfolding of knotted proteins, the interaction of gold nanocluster with biomolecules, the use of graphyne for water filtration, and the adsorption of water on yttria-stabilized zirconia surfaces.
 
-!![Book logo](/images/1BA782F3-CF86-424D-921C-E572E7EA43F7_1_105_c.jpeg)
+![Group](/images/1BA782F3-CF86-424D-921C-E572E7EA43F7_1_105_c.jpeg)
 
 
-/images/1BA782F3-CF86-424D-921C-E572E7EA43F7_1_105_c.jpeg
  
