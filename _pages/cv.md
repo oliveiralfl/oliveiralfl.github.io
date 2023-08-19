@@ -11,10 +11,6 @@ redirect_from:
 
 You can download a PDF version of my CV [here](http://oliveiralfl.github.io/files/Oliveira_CV.pdf)
 
-
-
-2020 - present Associate Professor
-
 Work experience
 ======
 * 2020 - present: Associate Professor of Chemistry 
