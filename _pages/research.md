@@ -8,7 +8,7 @@ author_profile: true
 Knotted protein unfolding
 ====
 Knotted proteins have been identified in approximately 1% of the Protein Data Bank (PDB) entries
-We seek to better understand how the presence of a molecular knot affects the unfolding mechanism of a protein compared to an unknotted protein. 
+We seek to understand better how the presence of a molecular knot affects the unfolding mechanism of a protein compared to an unknotted protein. 
 
 Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, knotted proteins have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins, namely, trefoil, three-twist, and stevedore. To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
 
