@@ -14,6 +14,8 @@ Classroom Instruction
 
  <u>Fall 2023</u>
 
+<ins>text</ins>
+
 \cvlistitem{CHE-2001: Special Topics: Computational Chemistry.}
 \cvlistitem{CHE-4064: Physical Chemistry II with laboratory. }
 \cvlistitem{CHE-1044: General Chemistry I with laboratory.}
