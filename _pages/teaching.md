@@ -1,6 +1,18 @@
-\textbf{\underline{Classroom Instruction}}}
-\vspace{2 mm}
-\subsection{ {{\underline{Mount Vernon Nazarene University}:}}}
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+A complete CV is available [here](http://oliveiralfl.github.io/files/Oliveira_CV.pdf)
+
+Classroom Instruction
+======
+
+**Mount Vernon Nazarene University**
 
 \cvitem{Fall 2023}{}
 
