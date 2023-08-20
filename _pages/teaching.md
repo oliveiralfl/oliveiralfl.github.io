@@ -16,54 +16,46 @@ Classroom Instruction
 
 <ins>text</ins>
 
-\cvlistitem{CHE-2001: Special Topics: Computational Chemistry.}
-\cvlistitem{CHE-4064: Physical Chemistry II with laboratory. }
-\cvlistitem{CHE-1044: General Chemistry I with laboratory.}
-\cvlistitem{MAT-4089: Special Topics: Data Science}
+- CHE-2001: Special Topics: Computational Chemistry.
+- CHE-4064: Physical Chemistry II with laboratory.
+- CHE-1044: General Chemistry I with laboratory.
+- MAT-4089: Special Topics: Data Science
 
-\cvitem{Spring 2023}{}
-\cvlistitem{CHE-1044: General Chemistry II with laboratory.}
-\cvlistitem{CHE-4054: Physical Chemistry I with laboratory.}
+**Spring 2023**
+- CHE-1044: General Chemistry II with laboratory.
+- CHE-4054: Physical Chemistry I with laboratory.
 
-\cvitem{Fall 2022}{}
-\cvlistitem{CHE-1034: General Chemistry I with laboratory. }
-\cvlistitem{MAT-2063: Introduction to Statistics.}
+**Fall 2022**
+- CHE-1034: General Chemistry I with laboratory.
+- MAT-2063: Introduction to Statistics.
 
-\cvitem{Spring 2022}{}
-\cvlistitem{CHE-1044: General Chemistry II with laboratory.}
-%\cvlistitem{CHE 3010: Quantitative Chemistry with laboratory. Spring 2022. Mount Vernon Nazarene University}
-\cvlistitem{CHE-1060: General, Organic and Biochemistry laboratory.}
+**Spring 2022**
+- CHE-1044: General Chemistry II with laboratory.
+- CHE-1060: General, Organic and Biochemistry laboratory.
 
-\cvitem{Fall 2021}{}
-\cvlistitem{CHE-1034: General Chemistry I with laboratory.}
-\cvlistitem{CHE-2001: Special Topics: Introduction to Data Science.}
-\cvlistitem{PHY-3010: Modern Physics Laboratory.}
-\vspace{2 mm}
+**Fall 2021**
+- CHE-1034: General Chemistry I with laboratory.
+- CHE-2001: Special Topics: Introduction to Data Science.
+- PHY-3010: Modern Physics Laboratory.
 
-\cvitem{Spring 2021}{}
+**Spring 2021**
+- CHE-1044: General Chemistry II with laboratory.
 
-\cvlistitem{CHE-1044: General Chemistry II with laboratory.}
+**Fall 2020**
+- CHE-1034: General Chemistry I with laboratory.
 
-\cvitem{Fall 2020}{}
+**University of Cincinnati:**
 
-\cvlistitem{CHE-1034: General Chemistry I with laboratory. }
-\vspace{3 mm}
+**Summer 2020**
+- CHEM-1041: General Chemistry II. Online.
 
-\subsection{\underline{University of Cincinnati}:}
-\vspace{2 mm}
+**Fall 2019**
+- CHEM-1040: General Chemistry I.
 
-\cvitem{Summer 2020}{}
-\cvlistitem{CHEM-1041: General Chemistry II. Online.}
+**Summer 2019**
+- CHEM-1040: General Chemistry I.
 
-\cvitem{Fall 2019}{}
-\cvlistitem{CHEM-1040: General Chemistry I. }
-\vspace{2 mm}
-
-\cvitem{Summer 2019}{}
-\cvlistitem{CHEM-1040: General Chemistry I.}
-
-\cvitem{Fall 2018}{}
-\cvlistitem{CHEM-1040L: General Chemistry I Laboratory.}
-\cvlistitem{CHEM-1020L: Introduction to General, Organic and Biochemistry Laboratory.}
-\cvlistitem{CHEM-1030L: Introduction to General, and Organic Chemistry Laboratory.}
-\vspace{3 mm}
+**Fall 2018**
+- CHEM-1040L: General Chemistry I Laboratory.
+- CHEM-1020L: Introduction to General, Organic and Biochemistry Laboratory.
+- CHEM-1030L: Introduction to General, and Organic Chemistry Laboratory.
