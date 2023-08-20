@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Current Undergraduate Researchers:
+All supported by MVNU Summer Program for Undergraduate Research:
 
 - Hannah Crouse (former XSEDE EMPOWER trainee) [2021 - present]
 - Daniel Daly [2022 - present]
