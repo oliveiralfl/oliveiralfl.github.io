@@ -12,4 +12,4 @@ We seek to better understand how the presence of a molecular knot affects the un
 
 Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, knotted proteins have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins, namely, trefoil, three-twist, and stevedore. To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
 
-<img src="/images/1J85.png" width="100">
+<img src="/images/1J85.png" align="center" height = "100" width="200">
