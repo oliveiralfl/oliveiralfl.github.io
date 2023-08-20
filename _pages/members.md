@@ -22,6 +22,3 @@ author_profile: true
 - Tien Do (UC) [Fall 2019]
 - Tan Do (UC) [Fall 2019]
 - Miwakoto Ito (UW) [Summer 2016]
-
-
-Alumni
