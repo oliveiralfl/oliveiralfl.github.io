@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-- Hannah Crouse, Alyssa Van Fossen, **L. F. L. Oliveira**, "Using metadynamics to determine the free energy landscaping of knotted proteins unfolding." *in preparation for PeerJ Physical Chemistry.*
+[//]: <> - Hannah Crouse, Alyssa Van Fossen, **L. F. L. Oliveira**, "Using metadynamics to determine the free energy landscaping of knotted proteins unfolding." *in preparation for PeerJ Physical Chemistry.*
 - Daniel Daly, Binyang Hou, **L. F. L. Oliveira**, "Water Adsorption on Yttria-Stabilized Zirconia Surfaces" *in preparation for Surface Chemistry.*
 - **L. F. L. Oliveira**, "Strategies for Effective Utilization of Writing and Educational YouTube Videos in the Context of General Chemistry Topics" *in preparation for the Journal of Chemical Education.*
 - M Jora, D. Corcoran, G. Parungao, P. Lobue, **L. F. L. Oliveira**, G. Stan, B. Addepalli, P. Limbach "Higher-Energy Collision Dissociation Mass Spectral Networks for the Rapid, Semi-automated Characterization of Known and Unknown Ribonucleoside" *Analytical Chemistry*. (2022), 94, 40, 13958.
