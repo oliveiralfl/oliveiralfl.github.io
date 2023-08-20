@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-[//]: <> - Hannah Crouse, Alyssa Van Fossen, **L. F. L. Oliveira**, "Using metadynamics to determine the free energy landscaping of knotted proteins unfolding." *in preparation for PeerJ Physical Chemistry.*
-- Daniel Daly, Binyang Hou, **L. F. L. Oliveira**, "Water Adsorption on Yttria-Stabilized Zirconia Surfaces" *in preparation for Surface Chemistry.*
-- **L. F. L. Oliveira**, "Strategies for Effective Utilization of Writing and Educational YouTube Videos in the Context of General Chemistry Topics" *in preparation for the Journal of Chemical Education.*
 - M Jora, D. Corcoran, G. Parungao, P. Lobue, **L. F. L. Oliveira**, G. Stan, B. Addepalli, P. Limbach "Higher-Energy Collision Dissociation Mass Spectral Networks for the Rapid, Semi-automated Characterization of Known and Unknown Ribonucleoside" *Analytical Chemistry*. (2022), 94, 40, 13958.
 -  H. Y. Fonseka, A. Javidi, **L. F. L. Oliveira**, C. Micheletti, and G. Stan. "Unfolding and translocation of knotted proteins by Clp biological nanomachines: synergistic contribution of primary sequence and topology revealed by molecular dynamics simulations" *J. Phys. Chem*. B (2021), 125, 27, 7335.
 - K. S. Sykes, **L. F. L. Oliveira**, G. Stan, and R. J. White "Electrochemical Studies of Cation Condensation-Induced Collapse of Surface-Bound DNA" *Langmuir* (2019), 35, 40, 12962.
