@@ -10,7 +10,7 @@ author_profile: true
 ### Current Undergraduate Researchers:
 
 - Hannah Crouse (former XSEDE EMPOWER trainee) [2021 - present]
-- Daniel Daly [2022 - present]
+- Daniel Daly [2022 - present]f
 - Jerhett Morehouse [2023 - present]
 
 ### Alumni:
