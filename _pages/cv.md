@@ -22,7 +22,7 @@ Work experience
   * Research: Computational Biophysics
  
 * **2015 - 2018: Research Associate**
-  * Department of Chemical Engineering.
+  * Department of Chemical Engineering
   * University of Washington. Seattle – WA
   * Research: Molecular Modeling, Reaction Engineering
  
@@ -34,9 +34,9 @@ Work experience
 Education
 ======
 * **2012 Ph.D. in Chemistry**
-  * University of Lyon and Atomic Energy and Alternative Energies Commission at Grenoble France.
-  * Title: Physical multiscale modeling of PEM water electrolyzers: from ab initio data to macroscale observables.
-  * Supervisors: Professor Alejandro A. Franco and Professor Christian Jallut.
+  * University of Lyon and Atomic Energy and Alternative Energies Commission at Grenoble France
+  * Title: Physical multiscale modeling of PEM water electrolyzers: from ab initio data to macroscale observables
+  * Supervisors: Professor Alejandro A. Franco and Professor Christian Jallut
  
 * **2008 Masters in Physics and in Materials Science**
   * Double diploma École Normale Supérieure de Lyon - France and  University of Roma "La Sapienza" - Italy
