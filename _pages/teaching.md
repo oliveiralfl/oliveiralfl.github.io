@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-A complete CV is available [here](http://oliveiralfl.github.io/files/Oliveira_CV.pdf)
-
 Classroom Instruction
 ======
 
 **Mount Vernon Nazarene University**
 
-\cvitem{Fall 2023}{}
+ <u>Fall 2023</u>
 
 \cvlistitem{CHE-2001: Special Topics: Computational Chemistry.}
 \cvlistitem{CHE-4064: Physical Chemistry II with laboratory. }
