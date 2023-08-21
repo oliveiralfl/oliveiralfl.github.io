@@ -17,7 +17,6 @@ Knotted proteins have been identified in approximately 1% of the protein data ba
 </div>
 <p style="text-align: center;"><sub>Schematic view of (A) 3<sub>1</sub> (B)  5<sub>2</sub> and (C) 6<sub>1</sub>, knots. Figure adapted from Fonseka, Javidi, Oliveira et al. J. Phys. Chem. B 2021, 125, 27, 7335</sub></p>
 
-<sub>Schematic view of (A) 3<sub>1</sub> (B)  5<sub>2</sub> and (C) 6<sub>1</sub>, knots. Figure adapted from Fonseka, Javidi, Oliveira et al. J. Phys. Chem. B 2021, 125, 27, 7335</sub>
   
 ## Water filtration through Graphynes’ Pores
 
@@ -27,8 +26,8 @@ Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It 
 <div style="text-align: center;">
 <img src="/images/graphyne.png" alt ="centered image" height = "500" width="1000">
 </div>
-<sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
-(C) Side view and (D) Top view. </sub>
+<p style="text-align: center;"><sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
+(C) Side view and (D) Top view. </sub></p>
 
 ## Dynamics of water on zirconia and yttria-stabilized zirconia surfaces
 
@@ -39,7 +38,7 @@ We use density functional theory (DFT) calculations to obtain energetic and stru
 <div style="text-align: center;">
 <img src="/images/zirconiaWater.png" alt ="centered image" height = "150" width="300">
 </div>
-<sub> Molecular representation of water molecules physisorption on ZrO<sub>2</sub>(110) surface. </sub>
+<p style="text-align: center;"><sub> Molecular representation of water molecules physisorption on ZrO<sub>2</sub>(110) surface. </sub></p>
 
 ## Accuracy of Density Functional Tight Binding for the structure and energetics of amino acids on gold nanoparticles
 
@@ -50,4 +49,4 @@ Despite the success of this level of theory, it is unfeasible to describe large 
 <div style="text-align: center;">
 <img src="/images/AuAA.png" alt ="centered image" height = "350" width="700">
 </div>
-<sub> Molecular representation of the physisorption of (a) tryptophan on Au<sub>20</sub>  and (b)  glycine on Au<sub>55</sub> </sub>
+<p style="text-align: center;"><sub> Molecular representation of the physisorption of (a) tryptophan on Au<sub>20</sub>  and (b)  glycine on Au<sub>55</sub> </sub></p>
