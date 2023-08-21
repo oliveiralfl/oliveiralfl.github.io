@@ -36,13 +36,13 @@ We use density functional theory (DFT) calculations to obtain energetic and stru
 </div>
 <sub> Molecular representation of water molecules physisorption on ZrO<sub>2</sub>(110) surface. </sub>
 
-Accuracy of Density Functional Tight Binding for the structure and energetics of amino acids on gold nanoparticles.
+Accuracy of Density Functional Tight Binding for the structure and energetics of amino acids on gold nanoparticles
 ====
 Gold nanoparticles (AuNPs) are popular in the field of biomedicine due to their biocompatibility and potential use as drug carriers or contrast agents. There are still challenges to making the biomedical applications of these materials more widely used. To overcome such challenges, a deep understanding of the physicochemical processes related to the interaction of AuNPs with biomolecules at the molecular level is crucial.
 Theoretical studies have successfully contributed to these endeavors. They have also helped in the design and functionalization of new nanobiomaterial systems. The most precise computational method used to study these systems is density functional theory (DFT).
 Despite the success of this level of theory, it is unfeasible to describe large AuNP due to computational cost. The computationally accessible regime to describe AuNPs using DFT calculations is approximately 2 nm in diameter. Density functional tight binding (DFTB) provides a compromise between accuracy and computational efficiency, it uses a simplified representation of the electronic wave functions, which allows it to calculate the electronic structure of large systems more efficiently than DFT. The main goal of this project is to compare the accuracy of DFTB in the study of AuNPs with different sizes and shapes that impact the binding energy and dynamics of biomolecules.
 
 <div style="text-align: center;">
-<img src="/images/AuAA.png" alt ="centered image" height = "150" width="300">
+<img src="/images/AuAA.png" alt ="centered image" height = "500" width="1000">
 </div>
-<sub> Molecular representation of the physisorption (a) tryptophan on Au<sub>20</sub>  and (b)  glycine on Au<sub>55</sub> </sub>
+<sub> Molecular representation of the physisorption of (a) tryptophan on Au<sub>20</sub>  and (b)  glycine on Au<sub>55</sub> </sub>
