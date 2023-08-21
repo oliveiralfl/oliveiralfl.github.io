@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-- M. Jora, D. Corcoran, G. Parungao, P. Lobue, **L. F. L. Oliveira**, G. Stan, B. Addepalli, P. Limbach "Higher-Energy Collision Dissociation Mass Spectral Networks for the Rapid, Semi-automated Characterization of Known and Unknown Ribonucleoside" *Analytical Chemistry*. (2022), 94, 40, 13958.
+[here](research.md)
+
+- M. Jora, D. Corcoran, G. Parungao, P. Lobue, **L. F. L. Oliveira**, G. Stan, B. Addepalli, P. Limbach ["Higher-Energy Collision Dissociation Mass Spectral Networks for the Rapid, Semi-automated Characterization of Known and Unknown Ribonucleoside"](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03172) *Analytical Chemistry*. (2022), 94, 40, 13958.
 -  H. Y. Fonseka, A. Javidi, **L. F. L. Oliveira**, C. Micheletti, and G. Stan. "Unfolding and translocation of knotted proteins by Clp biological nanomachines: synergistic contribution of primary sequence and topology revealed by molecular dynamics simulations" *J. Phys. Chem*. B (2021), 125, 27, 7335.
 - K. S. Sykes, **L. F. L. Oliveira**, G. Stan, and R. J. White "Electrochemical Studies of Cation Condensation-Induced Collapse of Surface-Bound DNA" *Langmuir* (2019), 35, 40, 12962.
 - **L. F. L. Oliveira**, C. D. Fu,  and J. Pfaendtner.  "Density Functional Tight-Binding and Infrequent Metadynamics can Capture Entropic Effects in Intramolecular Hydrogen Transfer Reactions" *J. Chem. Phys.* (2018) 148, 154101.
