@@ -36,7 +36,7 @@ We use density functional theory (DFT) calculations to obtain energetic and stru
 </div>
 <sub> Molecular representation of water molecules physisorption on ZrO<sub>2</sub>(110) surface. </sub>
 
-Accuracy of Density Functional Tight Binding for the structure and energetics of amino acids on gold nanoparticles
+Accuracy of Density Functional Tight Binding for the structure and energetics of amino acids on gold nanopartficles
 ====
 Gold nanoparticles (AuNPs) are popular in the field of biomedicine due to their biocompatibility and potential use as drug carriers or contrast agents. There are still challenges to making the biomedical applications of these materials more widely used. To overcome such challenges, a deep understanding of the physicochemical processes related to the interaction of AuNPs with biomolecules at the molecular level is crucial.
 Theoretical studies have successfully contributed to these endeavors. They have also helped in the design and functionalization of new nanobiomaterial systems. The most precise computational method used to study these systems is density functional theory (DFT).
