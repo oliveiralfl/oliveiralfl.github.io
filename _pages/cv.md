@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
+<h1 style="text-align: center;">CV</h1>
 
 A complete CV is available [here](http://oliveiralfl.github.io/files/Oliveira_CV.pdf)
 
