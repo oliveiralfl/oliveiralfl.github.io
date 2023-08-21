@@ -26,4 +26,4 @@ author_profile: true
 - Tan Do (UC) [Fall 2019]
 - Miwakoto Ito (UW) [Summer 2016]
 
-<sub><sup>*</sup>All supported by MVNU Summer Program for Undergraduate Research:</sub>
+<sub><sup>*</sup>All supported by MVNU Summer Program for Undergraduate Research</sub>
