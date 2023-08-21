@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 <p align="center">
- #Teaching
+// # Teaching
 </p>
-
+<h1 style="text-align: center;">Teaching</h1>
 ### Mount Vernon Nazarene University
 
  <u>Fall 2023</u>
