@@ -24,7 +24,7 @@ Knotted proteins have been identified in approximately 1% of the protein data ba
 Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It is a 2D material, similar to graphene, however, it presents different types depending on the number of triple bonds connecting benzene rings. By increasing the number of triple bonds, it is possible to form pores of various sizes. Molecular dynamic (MD) studies showed that graphyne pores can be used for water purification technologies. However, their study relied on empirical force fields. To consider quantum mechanical effects we use density functional tight binding (DFTB) to describe the electronic structure of these systems. Our MD simulations are accelerated with the aid of the metadynamics (MetaD) method. ﻿
 
 <div style="text-align: center;">
-<img src="/images/graphyne.png" alt ="centered image" height = "500" width="1000">
+<img src="/images/graphyne.png" alt ="centered image" height = "600" width="1200">
 </div>
 <p style="text-align: center;"><sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
 (C) Side view and (D) Top view. </sub></p>
