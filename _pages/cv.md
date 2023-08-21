@@ -40,8 +40,8 @@ Education
   * Title: Physical multiscale modeling of PEM water electrolyzers: from ab initio data to macroscale observables
   * Supervisors: Professor Alejandro A. Franco and Professor Christian Jallut
  
-* **2008 Masters in Physics and in Materials Science**
-  * Double diploma École Normale Supérieure de Lyon - France and  University of Roma "La Sapienza" - Italy
+* **2008 Master's in Physics and in Materials Science**
+  * Double diploma École Normale Supérieure de Lyon - France and  Università di Roma "La Sapienza" - Italy
  
 * **2007 B.S. in Physics**
   * Universidade Federal de Uberlândia - Brazil
