@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 Knotted protein unfolding
-====
+=
 Knotted proteins have been identified in approximately 1% of the Protein Data Bank (PDB) entries
 We seek to understand better how the presence of a molecular knot affects the unfolding mechanism of a protein compared to an unknotted protein. 
 
