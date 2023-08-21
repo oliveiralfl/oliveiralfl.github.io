@@ -38,11 +38,11 @@ author_profile: true
 
  <u>Spring 2021</u>
 - CHE-1044: General Chemistry II with laboratory.
-- SCI-3012: Science and the Modern Mind. (2 sections)
+- SCI-3012: Science and the Modern Mind (2 sections).
 
  <u>Fall 2020</u>
 - CHE-1034: General Chemistry I with laboratory.
-- SCI-3012: Science and the Modern Mind. (2 sections)
+- SCI-3012: Science and the Modern Mind (2 sections).
 
 
 ## University of Cincinnati
