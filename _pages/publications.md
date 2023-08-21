@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
+
+---
+<h1 style="text-align: center;">Publications</h1>
 
 - M. Jora, D. Corcoran, G. Parungao, P. Lobue, **L. F. L. Oliveira**, G. Stan, B. Addepalli, P. Limbach ["Higher-Energy Collision Dissociation Mass Spectral Networks for the Rapid, Semi-automated Characterization of Known and Unknown Ribonucleoside"](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03172) *Analytical Chemistry* (2022), 94, 40, 13958.
 -  H. Y. Fonseka, A. Javidi, **L. F. L. Oliveira**, C. Micheletti, and G. Stan. ["Unfolding and translocation of knotted proteins by Clp biological nanomachines: synergistic contribution of primary sequence and topology revealed by molecular dynamics simulations"](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c00898) *J. Phys. Chem*. B (2021), 125, 27, 7335.
