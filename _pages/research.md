@@ -20,7 +20,7 @@ Water filtration through Graphynes’ Pores
 Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It is a 2D material, similar to graphene, however, it presents different types depending on the number of triple bonds connecting benzene rings. By increasing the number of triple bonds, it is possible to form pores of various sizes. Molecular dynamic (MD) studies showed that graphyne pores can be used for water purification technologies. However, their study relied on empirical force fields. To consider quantum mechanical effects we use density functional tight binding (DFTB) to describe the electronic structure of these systems. Our MD simulations are accelerated with the aid of the metadynamics (MetaD) method. ﻿
 
 <div style="text-align: center;">
-<img src="/images/graphyne.png" alt ="centered image" height = "400" width="800">
+<img src="/images/graphyne.png" alt ="centered image" height = "500" width="1000">
 </div>
 <sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
 (C) Side view and (D) Top view. </sub>
@@ -32,7 +32,7 @@ This project is in collaboration with the Hou's group, in which they are investi
 We use density functional theory (DFT) calculations to obtain energetic and structural information about these systems. Additionally, to provide information on the system’s dynamics and to include temperature effects we use ab initio molecular dynamics (AIMD). Our AIMD simulations are performed at different temperatures as well as with different water surface coverages to determine the effect of chemisorbed water on the stability of the different surfaces.
 
 <div style="text-align: center;">
-<img src="/images/YSZ.png" alt ="centered image" height = "400" width="800">
+<img src="/images/zirconiaWater.png" alt ="centered image" height = "400" width="800">
 </div>
 <sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
 (C) Side view and (D) Top view. </sub>
