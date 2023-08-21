@@ -7,9 +7,12 @@ author_profile: true
 ---
 Knotted protein unfolding
 ====
-Knotted proteins have been identified in approximately 1% of the protein data bank entries. Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, they have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins: trefoil, 3<sub>1</sub>, figure-of-eight, 4<sub>1</sub>, three-twist, 5<sub>2</sub>, and stevedore, 6<sub>1</sub>, knots. We seek to better understand how the presence of a molecular knot affects a protein's unfolding mechanism compared to a similar unknotted protein.  To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
+Knotted proteins have been identified in approximately 1% of the protein data bank entries. Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, they have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins: trefoil, 3<sub>1</sub>, figure-of-eight, 4<sub>1</sub>, three-twist, 5<sub>2</sub>, and stevedore, 6<sub>1</sub>, knots. In this project, we seek to better understand how the presence of a molecular knot affects a protein's unfolding mechanism compared to a similar unknotted protein. To accomplish this we are studying the free energy surface (FES) of the unfolding/unkotting as a function of the fraction of native contacts. To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
 
-
+<div style="text-align: center;">
+<img src="/images/knoted.png" alt ="centered image" height = "100" width="200">
+</div>
+<sub><sup>Schematic view of (A) 3<sub>1</sub> (B)  5<sub>2</sub> and (C) 6<sub>1</sub>, knots. Figure adapted from Fonseka, Javidi, Oliveira et al. J. Phys. Chem. B 2021, 125, 27, 7335</sup></sub>
   
 Water filtration through Graphynes’ Pores
 ====
