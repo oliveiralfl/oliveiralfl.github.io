@@ -43,6 +43,6 @@ Theoretical studies have successfully contributed to these endeavors. They have 
 Despite the success of this level of theory, it is unfeasible to describe large AuNP due to computational cost. The computationally accessible regime to describe AuNPs using DFT calculations is approximately 2 nm in diameter. Density functional tight binding (DFTB) provides a compromise between accuracy and computational efficiency, it uses a simplified representation of the electronic wave functions, which allows it to calculate the electronic structure of large systems more efficiently than DFT. The main goal of this project is to compare the accuracy of DFTB in the study of AuNPs with different sizes and shapes that impact the binding energy and dynamics of biomolecules.
 
 <div style="text-align: center;">
-<img src="/images/AuAA.png" alt ="centered image" height = "400" width="800">
+<img src="/images/AuAA.png" alt ="centered image" height = "350" width="700">
 </div>
 <sub> Molecular representation of the physisorption of (a) tryptophan on Au<sub>20</sub>  and (b)  glycine on Au<sub>55</sub> </sub>
