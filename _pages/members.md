@@ -9,10 +9,8 @@ author_profile: true
 ---
 <h1 style="text-align: center;">Members</h1>
 
-## Knotted protein unfolding
 
-### Current Undergraduate Researchers:
-All supported by MVNU Summer Program for Undergraduate Research:
+### Current Undergraduate Researchers<sup>*</sup>:
 
 - Hannah Crouse (former XSEDE EMPOWER trainee) [2021 - present]
 - Daniel Daly [2022 - present]
@@ -27,3 +25,5 @@ All supported by MVNU Summer Program for Undergraduate Research:
 - Tien Do (UC) [Fall 2019]
 - Tan Do (UC) [Fall 2019]
 - Miwakoto Ito (UW) [Summer 2016]
+
+<sub><sup>*</sup> All supported by MVNU Summer Program for Undergraduate Research:</sub>
