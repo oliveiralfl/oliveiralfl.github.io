@@ -15,6 +15,8 @@ Knotted proteins have been identified in approximately 1% of the protein data ba
 <div style="text-align: center;">
 <img src="/images/knots.png" alt ="centered image" height = "500" width="700">
 </div>
+<p style="text-align: center;"><sub>Schematic view of (A) 3<sub>1</sub> (B)  5<sub>2</sub> and (C) 6<sub>1</sub>, knots. Figure adapted from Fonseka, Javidi, Oliveira et al. J. Phys. Chem. B 2021, 125, 27, 7335</sub></p>
+
 <sub>Schematic view of (A) 3<sub>1</sub> (B)  5<sub>2</sub> and (C) 6<sub>1</sub>, knots. Figure adapted from Fonseka, Javidi, Oliveira et al. J. Phys. Chem. B 2021, 125, 27, 7335</sub>
   
 ## Water filtration through Graphynes’ Pores
