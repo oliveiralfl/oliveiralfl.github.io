@@ -10,7 +10,8 @@ author_profile: true
 // # Teaching
 </p>
 <h1 style="text-align: center;">Teaching</h1>
-### Mount Vernon Nazarene University
+
+##Mount Vernon Nazarene University
 
  <u>Fall 2023</u>
 
