@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 <p align="center">
-// # Teaching
+ #Teaching
 </p>
 
 ### Mount Vernon Nazarene University
