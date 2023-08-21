@@ -14,9 +14,9 @@ author_profile: true
  <u>Fall 2023</u>
 
 - CHE-2001: Special Topics in Chemistry: Computational Chemistry.
-- CHE-4064: Physical Chemistry II with laboratory.
+- CHE-4064: Physical Chemistry II.
 - CHE-1044: General Chemistry I with laboratory.
-- MAT-4089: Special Topics in Mathematics: Data Science
+- MAT-4089: Special Topics in Mathematics: Data Science.
 
  <u>Spring 2023</u>
 - CHE-1044: General Chemistry II with laboratory. 
@@ -48,16 +48,16 @@ author_profile: true
 ## University of Cincinnati
 
 
-**Summer 2020**
+<u>Summer 2020</u>
 - CHEM-1041: General Chemistry II. Online.
 
-**Fall 2019**
+<u>Fall 2019</u>
 - CHEM-1040: General Chemistry I.
 
-**Summer 2019**
+<u>Summer 2019</u>
 - CHEM-1040: General Chemistry I.
 
-**Fall 2018**
+<u>Fall 2018</u>
 - CHEM-1040L: General Chemistry I Laboratory.
 - CHEM-1020L: Introduction to General, Organic and Biochemistry Laboratory.
 - CHEM-1030L: Introduction to General, and Organic Chemistry Laboratory.
