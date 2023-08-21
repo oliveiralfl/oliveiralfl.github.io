@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Members"
+title: ""
 permalink: /members/
 author_profile: true
 ---
 
 {% include base_path %}
+---
+<h1 style="text-align: center;">Members</h1>
+
+## Knotted protein unfolding
 
 ### Current Undergraduate Researchers:
 All supported by MVNU Summer Program for Undergraduate Research:
