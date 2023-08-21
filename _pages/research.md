@@ -10,7 +10,7 @@ Knotted protein unfolding
 Knotted proteins have been identified in approximately 1% of the protein data bank entries. Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, they have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins: trefoil, 3<sub>1</sub>, figure-of-eight, 4<sub>1</sub>, three-twist, 5<sub>2</sub>, and stevedore, 6<sub>1</sub>, knots. In this project, we seek to better understand how the presence of a molecular knot affects a protein's unfolding mechanism compared to a similar unknotted protein. To accomplish this we are studying the free energy surface (FES) of the unfolding/unknotting as a function of the fraction of native contacts. To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
 
 <div style="text-align: center;">
-<img src="/images/knots.png" alt ="centered image" height = "400" width="600">
+<img src="/images/knots.png" alt ="centered image" height = "500" width="700">
 </div>
 <sub>Schematic view of (A) 3<sub>1</sub> (B)  5<sub>2</sub> and (C) 6<sub>1</sub>, knots. Figure adapted from Fonseka, Javidi, Oliveira et al. J. Phys. Chem. B 2021, 125, 27, 7335</sub>
   
@@ -32,9 +32,17 @@ This project is in collaboration with the Hou's group, in which they are investi
 We use density functional theory (DFT) calculations to obtain energetic and structural information about these systems. Additionally, to provide information on the system’s dynamics and to include temperature effects we use ab initio molecular dynamics (AIMD). Our AIMD simulations are performed at different temperatures as well as with different water surface coverages to determine the effect of chemisorbed water on the stability of the different surfaces.
 
 <div style="text-align: center;">
-<img src="/images/zirconiaWater.png" alt ="centered image" height = "100" width="200">
+<img src="/images/zirconiaWater.png" alt ="centered image" height = "150" width="300">
 </div>
-<sub> Side view representation of water molecule physisorption on ZrO<sub>2</sub>(110) surface. </sub>
+<sub> Molecular representation of water molecules physisorption on ZrO<sub>2</sub>(110) surface. </sub>
 
-Gold
+Accuracy of Density Functional Tight Binding for the structure and energetics of amino acids on gold nanoparticles.
 ====
+Gold nanoparticles (AuNPs) are popular in the field of biomedicine due to their biocompatibility and potential use as drug carriers or contrast agents. There are still challenges to making the biomedical applications of these materials more widely used. To overcome such challenges, a deep understanding of the physicochemical processes related to the interaction of AuNPs with biomolecules at the molecular level is crucial.
+Theoretical studies have successfully contributed to these endeavors. They have also helped in the design and functionalization of new nanobiomaterial systems. The most precise computational method used to study these systems is density functional theory (DFT).
+Despite the success of this level of theory, it is unfeasible to describe large AuNP due to computational cost. The computationally accessible regime to describe AuNPs using DFT calculations is approximately 2 nm in diameter. Density functional tight binding (DFTB) provides a compromise between accuracy and computational efficiency, it uses a simplified representation of the electronic wave functions, which allows it to calculate the electronic structure of large systems more efficiently than DFT. The main goal of this project is to compare the accuracy of DFTB in the study of AuNPs with different sizes and shapes that impact the binding energy and dynamics of biomolecules.
+
+<div style="text-align: center;">
+<img src="/images/AuAA.png" alt ="centered image" height = "150" width="300">
+</div>
+<sub> Molecular representation of the physisorption (a) tryptophan on Au<sub>20</sub>  and (b)  glycine on Au<sub>55</sub> </sub>
