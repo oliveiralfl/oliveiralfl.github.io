@@ -7,8 +7,8 @@ author_profile: true
 ---
 Knotted protein unfolding
 ====
-Knotted proteins have been identified in approximately 1% of the Protein Data Bank (PDB) entries
-Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, knotted proteins have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins: trefoil, 3~1~, figure-of-eight, 4^2, three-twist, and stevedore knots, We seek to better understand how the presence of a molecular knot affects a protein's unfolding mechanism compared to a similar unknotted protein. We To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
+Knotted proteins have been identified in approximately 1% of the protein data bank entries. Knotted proteins are generally topologically more complex than unknotted proteins of similar polypeptide sequence lengths. Additionally, they have a diverse topology with different levels of complexity. Four distinct knot types have been detected in proteins: trefoil, 3<sub>1</sub>, figure-of-eight, 4<sub>1</sub>, three-twist, 5<sub>2</sub>, and stevedore, 6<sub>1</sub>, knots. We seek to better understand how the presence of a molecular knot affects a protein's unfolding mechanism compared to a similar unknotted protein.  To overcome the high-energy barriers along the free energy surface (FES) of these proteins we use metadynamics. 
+
 
   
 Water filtration through Graphynes’ Pores
