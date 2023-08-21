@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 Knotted protein unfolding
-=
+====
 Knotted proteins have been identified in approximately 1% of the Protein Data Bank (PDB) entries
 We seek to understand better how the presence of a molecular knot affects the unfolding mechanism of a protein compared to an unknotted protein. 
 
@@ -16,9 +16,6 @@ Knotted proteins are generally topologically more complex than unknotted protein
 <img src="/images/1J85.png" alt ="centered image" height = "100" width="200">
 </div>
 
-
-<div style="text-align: center;">
-  <img src="/images/1J85.png" alt="Right Image" style="float: left; margin-right: 20px;" height="100" width="200">
   
 Water filtration through Graphynes’ Pores
 ====
