@@ -32,9 +32,9 @@ This project is in collaboration with the Hou's group, in which they are investi
 We use density functional theory (DFT) calculations to obtain energetic and structural information about these systems. Additionally, to provide information on the system’s dynamics and to include temperature effects we use ab initio molecular dynamics (AIMD). Our AIMD simulations are performed at different temperatures as well as with different water surface coverages to determine the effect of chemisorbed water on the stability of the different surfaces.
 
 <div style="text-align: center;">
-<img src="/images/zirconiaWater.png" alt ="centered image" height = "400" width="800">
+<img src="/images/zirconiaWater.png" alt ="centered image" height = "100" width="200">
 </div>
-<sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
-(C) Side view and (D) Top view. </sub>
+<sub> Side view representation of water molecule physisorption on ZrO<sub>2</sub>(110) surface. </sub>
 
-
+Gold
+====
