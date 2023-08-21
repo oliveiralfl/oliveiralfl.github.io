@@ -20,16 +20,16 @@ Water filtration through Graphynes’ Pores
 Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It is a 2D material, similar to graphene, however, it presents different types depending on the number of triple bonds connecting benzene rings. By increasing the number of triple bonds, it is possible to form pores of various sizes. Molecular dynamic (MD) studies showed that graphyne pores can be used for water purification technologies. However, their study relied on empirical force fields. To consider quantum mechanical effects we use density functional tight binding (DFTB) to describe the electronic structure of these systems. Our MD simulations are accelerated with the aid of the MetaD method. ﻿This study is performed using the DFTB+ and PLUMED packages.
 
 <div style="text-align: center;">
-<img src="/images/graphyne.png" alt ="centered image" height = "200" width="400">
+<img src="/images/graphyne.png" alt ="centered image" height = "400" width="800">
 </div>
-<sub><sup> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory metadynamics simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
-(C) Side view and (D) Top view. </sup></sub>
+<sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory metadynamics simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
+(C) Side view and (D) Top view. </sub>
 
 Dynamics of water on zirconia and yttria-stabilized zirconia surfaces
 ====
 
-This project is in collaboration with Hou's group, where they are investigating ZrO2 surfaces and yttria-stabilized zirconia (YSZ) surfaces on the (100), (110), and (111) crystallographic orientations in contact with an aqueous solution.
-DFT calculations are useful to obtain energetic and structural information but they do not provide information on the system’s dynamics and do not take temperature effects into account. Therefore, we need a different method to study the coverage effects. A reasonable description of the dynamics of liquid water is provided by ab initio molecular dynamics (AIMD). We will perform AIMD simulations at different temperatures as well as with different water surface coverages to determine the evolution of the coverage and to better understand possible solvation effects. 
+This project is in collaboration with the Hou's group, in which they are investigating ZrO2 surfaces and yttria-stabilized zirconia (YSZ) surfaces on the (100), (110), and (111) crystallographic orientations in contact with an aqueous solution.
+We use density functional theory (DFT) calculations to obtain energetic and structural information about these systems. Additionally, to provide information on the system’s dynamics and to include temperature effects we use ab initio molecular dynamics (AIMD). Our AIMD simulations are performed at different temperatures as well as with different water surface coverages to determine the effect of chemisorbed water on the stability of different surfaces.
 
 
 
