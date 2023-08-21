@@ -6,12 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
-<p align="center">
-// # Teaching
-</p>
+
 <h1 style="text-align: center;">Teaching</h1>
 
-##Mount Vernon Nazarene University
+## Mount Vernon Nazarene University
 
  <u>Fall 2023</u>
 
@@ -47,8 +45,8 @@ author_profile: true
 - SCI-3012: Science and the Modern Mind. (2 sections)
 
 
-University of Cincinnati
-======
+## University of Cincinnati
+
 
 **Summer 2020**
 - CHEM-1041: General Chemistry II. Online.
