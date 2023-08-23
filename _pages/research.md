@@ -26,8 +26,7 @@ Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It 
 <div style="text-align: center;">
 <img src="/images/graphyne.png" alt ="centered image" height = "600" width="1200">
 </div>
-<p style="text-align: center;"><sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. We combined six units of graphyne-6 and placed a water cluster with 32 water molecules 10 Å away from the center of the sheet. The system has 300 atoms.
-(C) Side view and (D) Top view. </sub></p>
+<p style="text-align: center;"><sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. Side view (C) and top view (D) of a water cluster with 32 water molecules placed 10 Å away from six units of graphyne-6. The system has 300 atoms. </sub></p>
 
 ## Dynamics of water on zirconia and yttria-stabilized zirconia surfaces
 
