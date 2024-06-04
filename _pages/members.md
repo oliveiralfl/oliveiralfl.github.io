@@ -10,14 +10,18 @@ author_profile: true
 <h1 style="text-align: center;">Members</h1>
 
 
-### Current Undergraduate Researchers:<sup>*</sup>
+### Current Undergraduate Researchers:
 
-- Hannah Crouse (former XSEDE EMPOWER trainee) [2021 - present]
+
 - Daniel Daly [2022 - present]
-- Jerhett Morehouse [2023 - present]
+- Alyssa McPhee [2023 - present]
+- Cailey Bubis [2024 - present]
+- Mason Lewis [2024 - present]
 
 ### Alumni:
 
+- Jerhett Morehouse <sup>*</sup> [Summer 2023]
+- Hannah Crouse <sup>*</sup> (former XSEDE EMPOWER trainee) [2021 - 2023]
 - Alyssa Van Fossen (MVNU, XSEDE EMPOWER trainee) [Fall 2021]
 - Ryan O'Donnel (MVNU, XSEDE EMPOWER trainee) [Summer and Fall 2021]
 - Daniel Corcoran (UC) [2020 - 2021]
