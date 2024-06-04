@@ -10,7 +10,7 @@ author_profile: true
 <h1 style="text-align: center;">Members</h1>
 
 
-### Current Undergraduate Researchers:
+### Current Undergraduate Researchers: <sup>*</sup>
 
 
 - Daniel Daly [2022 - present]
@@ -30,4 +30,4 @@ author_profile: true
 - Tan Do (UC) [Fall 2019]
 - Miwakoto Ito (UW) [Summer 2016]
 
-<sub><sup>*</sup>All supported by MVNU Summer Program for Undergraduate Research</sub>
+<sub><sup>*</sup>Supported by MVNU Summer Program for Undergraduate Research</sub>
