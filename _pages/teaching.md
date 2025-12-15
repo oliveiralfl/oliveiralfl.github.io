@@ -26,12 +26,12 @@ author_profile: true
 <u>Fall 2024</u>
 
 - CHE-4064: Physical Chemistry I with laboratory
-- CHE-1044: General Chemistry I with laboratory
+- CHE-1024: General Chemistry I with laboratory
 - ESS-1044: Astronomy with laboratory
 
  <u>Spring 2024</u>
 
-- CHE-1044: General Chemistry I with laboratory
+- CHE-1044: General Chemistry II with laboratory
 - CHE-3014: Analytical Chemistry with laboratory
 - PHY-2065: University Physics II
 
@@ -39,7 +39,7 @@ author_profile: true
 
 - CHE-2001: Special Topics in Chemistry: Computational Chemistry
 - CHE-4064: Physical Chemistry II
-- CHE-1044: General Chemistry I with laboratory
+- CHE-1034: General Chemistry I with laboratory
 - MAT-4089: Special Topics in Mathematics: Data Science
 
  <u>Spring 2023</u>
@@ -55,7 +55,7 @@ author_profile: true
  <u>Spring 2022</u>
  
 - CHE-1044: General Chemistry II with laboratory
-- CHE-3010: Quantitative Chemistry  with laboratory
+- CHE-3010: Quantitative Chemistry with laboratory
 - CHE-1060: General, Organic and Biochemistry laboratory
 
  <u>Fall 2021</u>
