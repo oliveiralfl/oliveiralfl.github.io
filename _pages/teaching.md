@@ -11,6 +11,30 @@ author_profile: true
 
 ## Mount Vernon Nazarene University
 
+<u>Spring 2025</u>
+
+- CHE-1034: General Chemistry I with laboratory
+- CHE-2011: Inorganic Chemistry
+- ESS-1044: Astronomy with laboratory.
+
+<u>Spring 2025</u>
+
+- CHE-4064: Physical Chemistry II with laboratory
+- CHE-1044: General Chemistry II with laboratory.
+- ESS-1044: Astronomy with laboratory
+
+<u>Fall 2024</u>
+
+- CHE-4064: Physical Chemistry I with laboratory
+- CHE-1044: General Chemistry I with laboratory.
+- ESS-1044: Astronomy with laboratory
+
+ <u>Spring 2024</u>
+
+- CHE-1044: General Chemistry I with laboratory
+- CHE-3014: Analytical Chemistry with laboratory
+- PHY-2065: University Physics II
+
  <u>Fall 2023</u>
 
 - CHE-2001: Special Topics in Chemistry: Computational Chemistry.
