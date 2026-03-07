@@ -16,7 +16,8 @@ Under review:
 
 
 Published:
-Jerhett Morehouse, Alyssa McPhee, Emily Howie, **L. F. L. Oliveira**, ["Gold Nanocluster-Amino acid Interactions: Assessment of DFTB with Dispersion Corrections."](https://pubs.acs.org/doi/10.1021/acsomega.5c09355) *ACS Omega* (2026), 21, 11498.
+
+- Jerhett Morehouse, Alyssa McPhee, Emily Howie, **L. F. L. Oliveira**, ["Gold Nanocluster-Amino acid Interactions: Assessment of DFTB with Dispersion Corrections."](https://pubs.acs.org/doi/10.1021/acsomega.5c09355) *ACS Omega* (2026), 21, 11498.
 - M. Jora, D. Corcoran, G. Parungao, P. Lobue, **L. F. L. Oliveira**, G. Stan, B. Addepalli, P. Limbach ["Higher-Energy Collision Dissociation Mass Spectral Networks for the Rapid, Semi-automated Characterization of Known and Unknown Ribonucleoside"](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03172) *Analytical Chemistry* (2022), 94, 40, 13958.
 -  H. Y. Fonseka, A. Javidi, **L. F. L. Oliveira**, C. Micheletti, and G. Stan. ["Unfolding and translocation of knotted proteins by Clp biological nanomachines: synergistic contribution of primary sequence and topology revealed by molecular dynamics simulations"](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c00898) *J. Phys. Chem*. B (2021), 125, 27, 7335.
 - K. S. Sykes, **L. F. L. Oliveira**, G. Stan, and R. J. White ["Electrochemical Studies of Cation Condensation-Induced Collapse of Surface-Bound DNA"](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.9b02299) *Langmuir* (2019), 35, 40, 12962.
