@@ -19,9 +19,10 @@ We use density functional theory (DFT) calculations to obtain energetic and stru
 <img src="/images/zirconiaWater.png" alt ="centered image" height = "150" width="300">
 </div>
 <p style="text-align: center;"><sub> Molecular representation of water molecules physisorption on ZrO<sub>2</sub>(110) surface. </sub></p>
-  
-## Water filtration through Graphynes’ Pores
 
+
+<!--  
+## Water filtration through Graphynes’ Pores
 
 Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It is a 2D material, similar to graphene, however, it presents different types depending on the number of triple bonds connecting benzene rings. By increasing the number of triple bonds, it is possible to form pores of various sizes. Molecular dynamic (MD) studies showed that graphyne pores can be used for water purification technologies. However, their study relied on empirical force fields. To consider quantum mechanical effects we use density functional tight binding (DFTB) to describe the electronic structure of these systems. Our MD simulations are accelerated with the aid of the metadynamics (MetaD) method. ﻿
 
@@ -30,6 +31,7 @@ Graphyne is a carbon allotrope formed by sp and sp<sup>2</sup> carbon atoms. It 
 </div>
 <p style="text-align: center;"><sub> Molecular representation of graphyne-n units where n indicates the number of carbon-carbon triple bonds: (A) graphyne-1 (B) graphyne-4. Also shown is the setup for exploratory MetaD simulations. Side view (C) and top view (D) of a water cluster with 32 water molecules placed 10 Å away from six units of graphyne-6. The system has 300 atoms. </sub></p>
 
+-->
 ## Knotted protein unfolding
 
 
