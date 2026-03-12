@@ -20,6 +20,7 @@ author_profile: true
 <u>Spring 2025</u>
 
 - CHE-4064: Physical Chemistry II with laboratory
+- CHE-3030: Organic Chemistry II. Laboratory
 - CHE-1044: General Chemistry II with laboratory
 - ESS-1044: Astronomy with laboratory
 
